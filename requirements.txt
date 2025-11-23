@@ -1,6 +1,6 @@
 
-tensorflow==2.9.0
-streamlit==1.28.1
+tensorflow==2.20.0
+streamlit
 numpy
 matplotlib
 Pillow
