@@ -7,7 +7,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.preprocessing import image
 import numpy as np
 import os
-
+import matplotlib.pyplot as plt
 # --- 1. Configuration (These should ideally be consistent with your training) ---
 IMG_HEIGHT = 224
 IMG_WIDTH = 224
