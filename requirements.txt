@@ -2,6 +2,6 @@
 tensorflow==2.20.0
 streamlit
 numpy
-matplotlib
+matplotlib=3.7.1
 Pillow
 scikit-learn # needed for confusion matrix if you add it later, safe to include
