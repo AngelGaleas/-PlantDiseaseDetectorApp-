@@ -1,0 +1,7 @@
+
+tensorflow==2.15.0
+streamlit==1.28.1
+numpy
+matplotlib
+Pillow
+scikit-learn # needed for confusion matrix if you add it later, safe to include
