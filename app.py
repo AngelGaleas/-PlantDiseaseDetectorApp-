@@ -28,7 +28,7 @@ CLASS_LABELS = [
 ]
 
 disease_solutions = {
-    'Apple___Apple_scab': 'For Apple scab, successful management involves a two-pronged approach. First, it's crucial to promptly remove and destroy all infected leaves and branches; this helps reduce the source of new spores. Secondly, during periods of wet weather, which actively favor the spread of this fungal disease, proactive application of appropriate fungicides is highly recommended to protect healthy foliage and prevent further infection cycles',
+    'Apple___Apple_scab': 'Remove and destroy infected leaves and branches. Apply fungicides during wet periods.',
     'Apple___Black_rot': 'Prune out cankered and diseased wood. Remove mummified fruits. Apply protective fungicides.',
     'Apple___Cedar_apple_rust': 'Remove cedar trees from the vicinity (if possible). Apply fungicides to protect apple trees during spring.',
     'Apple___healthy': 'Maintain good cultural practices: proper watering, fertilization, and pruning.',
