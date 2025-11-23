@@ -162,7 +162,7 @@ if uploaded_file is not None:
                                         "No specific solution found for this disease. Please consult an agricultural expert.")
 
         st.subheader("Diagnosis Result:")
-        st.markdown(f"**Predicted Disease:** <span style="color:green;">**{predicted_class_name}**</span>", unsafe_allow_html=True)
+        st.markdown(f"**Predicted Disease:** <span style='color:green;'>**{predicted_class_name}**</span>", unsafe_allow_html=True)
         st.markdown(f"**Confidence:** **{confidence:.2f}%**")
         st.info(f"**Recommended Solution:** {solution}")
 
