@@ -28,7 +28,7 @@ CLASS_LABELS = [
 ]
 
 disease_solutions = {
-    'Apple___Apple_scab': 'Remove and destroy infected leaves and branches. Apply fungicides during wet periods.',
+    'Apple___Apple_scab': 'RRemove and destroy infected leaves and branches. Apply fungicides during wet periods.',
     'Apple___Black_rot': 'Prune out cankered and diseased wood. Remove mummified fruits. Apply protective fungicides.',
     'Apple___Cedar_apple_rust': 'Remove cedar trees from the vicinity (if possible). Apply fungicides to protect apple trees during spring.',
     'Apple___healthy': 'Maintain good cultural practices: proper watering, fertilization, and pruning.',
